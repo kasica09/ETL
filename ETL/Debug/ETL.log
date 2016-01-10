@@ -1,0 +1,17 @@
+﻿Build started 2016-01-10 02:00:12.
+     1>Project "E:\magister\uek\hurtowanie_danych\zad2\kod\ETL\ETL\ETL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ETL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ETL.cpp
+         ETL.cpp
+     1>e:\magister\uek\hurtowanie_danych\zad2\kod\etl\etl\etl.cpp(1063): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\magister\uek\hurtowanie_danych\zad2\kod\etl\etl\etl.cpp(1097): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\magister\uek\hurtowanie_danych\zad2\kod\etl\etl\etl.cpp(1242): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\magister\uek\hurtowanie_danych\zad2\kod\ETL\Debug\ETL.exe" /INCREMENTAL /NOLOGO libcurl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\magister\uek\hurtowanie_danych\zad2\kod\ETL\Debug\ETL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\magister\uek\hurtowanie_danych\zad2\kod\ETL\Debug\ETL.lib" /MACHINE:X86 Debug\ETL.obj
+         Debug\stdafx.obj
+         ETL.vcxproj -> E:\magister\uek\hurtowanie_danych\zad2\kod\ETL\Debug\ETL.exe
+     1>Done Building Project "E:\magister\uek\hurtowanie_danych\zad2\kod\ETL\ETL\ETL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.41
